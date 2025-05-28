@@ -32,11 +32,11 @@ module.exports = {
   },
 
   sendInfo: async function (message) {
-    const botName = "আম্মু 🙈🫦";
-    const authorName = "zaHiDul";
-    const authorFB = "জাহ ভাগ আইডি নাজ😾";
-    const authorInsta = "এটা আবার কি?🙂";
-    const status = "𝗦𝗶𝗻𝗴𝗹𝗲";
+    const botName = "আম্মু 😌🌸";
+    const authorName = "𝗔𝗗𝗜";
+    const authorFB = "oxyxadi007";
+    const authorInsta = "এটা আবার কি?🙄";
+    const status = "𝐒𝐢𝐧𝐠𝐥𝐞";
 
     const now = moment().tz('Asia/Dhaka');
     const time = now.format('h:mm:ss A');
