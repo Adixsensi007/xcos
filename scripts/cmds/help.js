@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "[ আম্মু 🙈🫦 ]"; 
+const doNotDelete = "[ আম্মু 😌🌸 ]"; 
 
 module.exports = {
   config: {
@@ -34,7 +34,7 @@ module.exports = {
       const categories = {};
       let msg = "╭───────❁";
 
-      msg += `\n│আম্মু 🙈🫦 𝗛𝗘𝗟𝗣 𝗟𝗜𝗦𝗧\n╰────────────❁`; 
+      msg += `\n│আম্মু 😌🌸 𝗛𝗘𝗟𝗣 𝗟𝗜𝗦𝗧\n╰────────────❁`; 
 
       for (const [name, value] of commands) {
         if (value.config.role > 1 && role < value.config.role) continue;
@@ -62,7 +62,7 @@ module.exports = {
       const totalCommands = commands.size;
       msg += `\n\n╭─────✰[𝗘𝗡𝗝𝗢𝗬]\n│>𝗧𝗢𝗧𝗔𝗟 𝗖𝗠𝗗𝗦: [${totalCommands}].\n│𝗧𝗬𝗣𝗘𝖳:[ ${prefix}𝗛𝗘𝗟𝗣 \n│.]\n╰────────────✰`;
       msg += ``;
-      msg += `\n╭─────✰\n│ ╣[আম্মু 🙈🫦]╠\n╰────────────✰`; 
+      msg += `\n╭─────✰\n│ ╣[আম্মু 😌🌸]╠\n╰────────────✰`; 
 
 const helpListImages = [ "https://files.catbox.moe/6tgryq.jpg" ];
 
