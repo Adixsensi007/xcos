@@ -118,7 +118,7 @@ module.exports = {
         + `║ 💬 Chatbox : ${threadPrefix}\n`
         + `║ ➤ ${threadPrefix}help to see all available cmds 🥵\n`
         + "╚═══════════════╝",
-        attachment: await utils.getStreamFromURL("https://res.cloudinary.com/mahiexe/image/upload/v1748606376/mahi/1748606376459-350460690.jpg")
+        attachment: await utils.getStreamFromURL("https://files.catbox.moe/ug1s22.jpg")
       });
     }
   }
