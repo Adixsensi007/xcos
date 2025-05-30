@@ -116,9 +116,9 @@ module.exports = {
           "╔══『 𝐏𝐑𝐄𝐅𝐈𝐗 』══╗\n"
         + `║ 🌍 System : ${globalPrefix}\n`
         + `║ 💬 Chatbox : ${threadPrefix}\n`
-        + `║ ➤ ${threadPrefix}help to see all available cmds 🥵\n`
+        + `║ ➤ ${threadPrefix}help to see all available cmds ⚙️\n`
         + "╚═══════════════╝",
-        attachment: await utils.getStreamFromURL("https://files.catbox.moe/8ufjqu.jpg")
+        attachment: await utils.getStreamFromURL("https://res.cloudinary.com/mahiexe/video/upload/v1748610098/mahi/1748610097592-489372290.mp4")
       });
     }
   }
