@@ -52,13 +52,13 @@ module.exports = {
     const body = `
 
 ┏━━━━━━━━━━━━━━━━┓
-┃ 🧑 Admin Info
+┃  ⚙️Admin Info
 ┃ ╰➤ Name: ${authorName}
 ┃ ╰➤ Facebook: ${authorFB}
 ┃ ╰➤ Instagram: ${authorInsta}
 ┃ ╰➤ Status: ${status}
 ┃
-┃ 🤖 Bot Details
+┃ ⚙️ Bot Details
 ┃ ╰➤ Name: ${botName}
 ┃ ╰➤ Time: ${time}
 ┃ ╰➤ Uptime: ${uptimeString}
